@@ -21,13 +21,13 @@ We will create a story for a LoginForm component with two input fields that emit
 
 💥 Additional Content
 -----------------------------------
-🎓 Udemy Courses - https://www.udemy.com/user/aaronsaunders/
-🎓 Gumroad Courses/Content - https://www.gumroad.com/fiwic
+- 🎓 Udemy Courses - https://www.udemy.com/user/aaronsaunders/
+- 🎓 Gumroad Courses/Content - https://www.gumroad.com/fiwic
 
 💥 Social Media 
 -------------------------
-Twitter - https://twitter.com/aaronksaunders
-Facebook - https://www.facebook.com/ClearlyInnovativeInc
-Instagram - https://www.instagram.com/aaronksaunders/
-Dev.to - https://dev.to/aaronksaunders
-🌐 www.fiwic.com
+- Twitter - https://twitter.com/aaronksaunders
+- Facebook - https://www.facebook.com/ClearlyInnovativeInc
+- Instagram - https://www.instagram.com/aaronksaunders/
+- Dev.to - https://dev.to/aaronksaunders
+- 🌐 www.fiwic.com

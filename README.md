@@ -5,10 +5,12 @@
 </p>
 <br/>
 
+VIDEO - https://youtu.be/AMzanfFB0BM
+
 How To Use Storybook with Ionic and VueJS
 #ionic #vuejs #storybook
 
-Intro video for configuring vuejs storybook and ionic framework.
+Intro video for configuring vuejs storybook and ionic framework. 
 
 We will create a story for a LoginForm component with two input fields that emits events for login and create account
 
@@ -17,6 +19,7 @@ We will create a story for a LoginForm component with two input fields that emit
 -----------------------------------
 - Storybook - https://storybook.js.org/docs/vue/get-started/introduction
 - ionic Vue - https://ionicframework.com/docs/vue/overview
+- Video - https://youtu.be/AMzanfFB0BM
 
 
 💥 Additional Content
